@@ -1,0 +1,11 @@
+{
+  "name": "TEST TOKEN OMG",
+  "symbol": "TTOMG",
+  "description": "Test description of the new Test Token OMG",
+  "image": "https://static.wikia.nocookie.net/silly-cat/images/3/35/CuhBG.png/revision/latest?cb=20231025181331",
+  "extensions": {
+    "website": "https://example.com",
+    "twitter": "https://example.com",
+    "telegram": "https://example.com"
+  }
+}
